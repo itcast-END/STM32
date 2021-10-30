@@ -1,0 +1,2 @@
+Dependencies for Project 'helloworld', Target 'Target 1': (DO NOT MODIFY !)
+F (.\h.s)(0x617D4AB9)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F10X_MD SETA 1"--list .\listings\h.lst --xref -o .\objects\h.o --depend .\objects\h.d)
